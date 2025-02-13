@@ -9,12 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd
 
+#supplying just one theme ("morph")
 format:
   html:
-    theme: cosmo
+    theme: morph
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

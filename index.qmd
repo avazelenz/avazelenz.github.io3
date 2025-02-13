@@ -1,11 +1,18 @@
 ---
-title: "avazelenz.github.io3"
+title: "Ava Zelenz"
+image: Git/portrait/me
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ava-zelenz-735bb0349/
+    - text: GitHub
+      href: https://github.com/avazelenz
+    - text: Email
+      href: mailto:Ava.Zelenz@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! I'm Ava, a third year ESS student at CSU. I love skiing, hiking, cooking, and listening to music. I grew up in Syracuse, New York and have a 24 year old brother and a 7 year old golden doodle who I love with my whole heart named Dax. I plan to graduate in spring of 2026 and hope to use my degree to do field work and research throughout Colorado.
