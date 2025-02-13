@@ -1,6 +1,6 @@
 ---
 title: "Ava Zelenz"
-image: Git/portrait/me
+image: me.jpg
 toc: false
 about: 
   template: jolla
@@ -15,4 +15,4 @@ about:
       href: mailto:Ava.Zelenz@colostate.edu
 ---
 
-Hi! I'm Ava, a third year ESS student at CSU. I love skiing, hiking, cooking, and listening to music. I grew up in Syracuse, New York and have a 24 year old brother and a 7 year old golden doodle who I love with my whole heart named Dax. I plan to graduate in spring of 2026 and hope to use my degree to do field work and research throughout Colorado.
+Hi! I'm Ava, a third year ESS student at CSU. I love skiing, hiking, cooking, and listening to music. I grew up in Syracuse, New York and have a 24 year old brother and a 7 year old golden doodle who I love with my whole heart named Dax. I plan to graduate in spring of 2026 and hope to use my degree to do field work and research throughout Colorado. My motivations consist of valuing the environment and its protection.

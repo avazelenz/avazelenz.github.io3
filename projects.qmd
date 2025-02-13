@@ -1,0 +1,8 @@
+---
+title: "Projects"
+format: html
+---
+
+In the spring of 2025 I took a Quantitative Reasoning class based in R. The first project I did was creating this website. I learned how to use R Script for the first time, create code and push it to Github, and create customization of the website by code. 
+
+- Here's my homepage!
