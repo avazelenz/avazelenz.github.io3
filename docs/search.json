@@ -14,17 +14,10 @@
     "text": "Hi! I’m Ava, a third year ESS student at CSU. I love skiing, hiking, cooking, and listening to music. I grew up in Syracuse, New York and have a 24 year old brother and a 7 year old golden doodle who I love with my whole heart named Dax. I plan to graduate in spring of 2026 and hope to use my degree to do field work and research throughout Colorado. My motivations consist of valuing the environment and its protection."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In the spring of 2025 I took a Quantitative Reasoning class based in R. The first project I did was creating this website. I learned how to use R Script for the first time, create code and push it to Github, and create customization of the website by code.\n\nHere’s my homepage!"
+    "text": "In the spring of 2025 I took a Quantitative Reasoning class based in R. The first project I did was creating this website. I learned how to use R Script for the first time, create code and push it and host to Github, and create customization of the website by code.\n\nHere’s my homepage"
   }
 ]
