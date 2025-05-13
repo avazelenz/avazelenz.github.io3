@@ -13,44 +13,65 @@ Here are my eleven labs that I completed in the Spring semester of 2025.
 
 ![Lab1](imgs/lab1.png)
 
+
 This lab was the creation of this very website you are looking at. It also was the first experience I had with YMAL, CSS, HTML and website construction.
 
 #### Lab 2
 
-![Lab2](imgs/lab2.png) This lab taught me data transformation and manipulation and how important it is to be able to alter datasets.
+![Lab2](imgs/lab2.png) 
+
+This lab taught me data transformation and manipulation and how important it is to be able to alter datasets.
 
 #### Lab 3
 
-![Lab3](imgs/lab3.png) In this lab I learned the importance of public data and how one can use vast amounts of data to see patterns and movements of data points.
+![Lab3](imgs/lab3.png) 
+
+In this lab I learned the importance of public data and how one can use vast amounts of data to see patterns and movements of data points.
 
 #### Lab 4
 
-![Lab4](imgs/lab4.png) In this lab we began the process of using chi-square tests, t-tests, and correlation tests.
+![Lab4](imgs/lab4.png) 
+
+In this lab we began the process of using chi-square tests, t-tests, and correlation tests.
 
 #### Lab 5
 
-![Lab5](imgs/lab5.png) This lab was the first assignment related to the final project. My partner and I first started this process by having two topics that we were interested in and gathering information on them.
+![Lab5](imgs/lab5.png) 
+
+This lab was the first assignment related to the final project. My partner and I first started this process by having two topics that we were interested in and gathering information on them.
 
 #### Lab 6
 
-![Lab6](imgs/lab6.png) In this lab I learned how to use predictive modeling. Using this I trained and evaluated models and interpreted and compared them based on their performance.
+![Lab6](imgs/lab6.png) 
+
+In this lab I learned how to use predictive modeling. Using this I trained and evaluated models and interpreted and compared them based on their performance.
 
 #### Lab 7
 
-![Lab7](imgs/lab7.png) This lab was the second assignment of the final project. Now my partner and I had come to an agreement to research soil health and the different management practices that can be used in agricultural systems to have a more sustainable form of industrial agriculture.
+![Lab7](imgs/lab7.png) 
+
+This lab was the second assignment of the final project. Now my partner and I had come to an agreement to research soil health and the different management practices that can be used in agricultural systems to have a more sustainable form of industrial agriculture.
 
 #### Lab 8
 
-![Lab8](imgs/lab8.png) In this lab I learned how to put together data splitting and a machine learning pipeline to create and complete pipeline specifically for a regression problem.
+![Lab8](imgs/lab8.png) 
+
+In this lab I learned how to put together data splitting and a machine learning pipeline to create and complete pipeline specifically for a regression problem.
 
 #### Lab 9
 
-![Lab9](imgs/lab9.png) This was the third assignment in the final project. It consisted of the methods, results, and discussion of our research. It taught me that working with data sets can be an incredibly finicky feat that will more often than not result in a lot of frustration.
+![Lab9](imgs/lab9.png) 
+
+This was the third assignment in the final project. It consisted of the methods, results, and discussion of our research. It taught me that working with data sets can be an incredibly finicky feat that will more often than not result in a lot of frustration.
 
 #### Lab 10
 
-![Lab10](imgs/lab10.png) This lab taught me how to use sf, sfc, ad sfg features and the importance of distance calculation and coordinate transformation.
+![Lab10](imgs/lab10.png) 
+
+This lab taught me how to use sf, sfc, ad sfg features and the importance of distance calculation and coordinate transformation.
 
 #### Lab 11
 
-![Lab11](imgs/lab11.png) This was the last lab of the class and for the final project. It consisted of my my partner and I presenting for 7 minutes to our class about what we had spent the last 2 months, give or take, researching.
+![Lab11](imgs/lab11.png) 
+
+This was the last lab of the class and for the final project. It consisted of my my partner and I presenting for 7 minutes to our class about what we had spent the last 2 months, give or take, researching.
